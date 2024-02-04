@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivank Sharma</h1>
-<h3 align="center">Competitive Programmer & Flutter enthusiast</h3>
+<h3 align="center">Competitive Programmer & Frontend enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivank13&label=Profile%20views&color=0e75b6&style=flat" alt="shivank13" /> </p>
 
