@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivank13" alt="shivank13" /></a> </p>
 
-- 🔭 I’m currently exploring **Flutter**
+- 🔭 I’m currently exploring **GenerativeAI**
 
-- 🌱 I’m currently learning **AWS, Firebase**
+- 🌱 I’m proficient in **Frontend Development**
 
-- 💬 Ask me about **Data structures , algorithms and Flutter**
+- 💬 Ask me about **Data structures,React,Django and GenAI**
 
 - 📫 How to reach me **Shivanksharma013@gmail.com**
 
